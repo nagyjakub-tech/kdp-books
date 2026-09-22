@@ -1,0 +1,34 @@
+niche,title,asin,format,price_eur,reviews,bsr_overall,subcat_rank,subcat_name,competitor_type,assumed_pages,kindle_available
+keto_cookbook,The Wholesome Yum Easy Keto Cookbook,198482662X,hardcover,12.51,7081,11400,4,Ketogenic Cookbooks,traditional,280,True
+keto_cookbook,Southern Keto,1628603135,paperback,14.81,12115,30327,13,Ketogenic Diet,traditional,280,True
+keto_cookbook,Simply Keto,1628602635,paperback,16.66,10307,35261,17,Ketogenic Diet,traditional,280,True
+dog_training_book,Training High Energy Dogs,B0FNL4MNG3,paperback,20.92,180,50365,57,Dog Training,indie,220,True
+dog_training_book,How to Raise the Perfect Dog,0307461300,paperback,13.22,9523,11881,4,Dog Training,traditional,220,True
+dog_training_book,Zak George's Dog Training Revolution,1607748916,paperback,8.12,9495,15100,8,Dog Training,traditional,220,True
+budget_planner,Weekly Budget Planner,1441332863,paperback,5.68,1356,30806,49,Guided Journals,traditional,120,False
+budget_planner,Bill Tracker Notebook,B0C7J5GL8Q,paperback,8.71,2715,3173,1,Accounting Standards,indie,120,False
+budget_planner,A Budget Planner (Sourcebooks),1728281369,paperback,14.82,21,560167,176,Budgetary & Cost Accounting,traditional,120,False
+anxiety_workbook,The Anxiety and Phobia Workbook,164848557X,paperback,12.54,2971,6611,26,Anxieties & Phobias,traditional,200,True
+anxiety_workbook,The Anxiety Workbook 7-Week Plan,1623159733,paperback,10.11,1785,129984,190,Anxieties & Phobias,traditional,200,True
+anxiety_workbook,The Cognitive Behavioral Workbook for Anxiety,1626250154,paperback,21.1,962,24241,79,Anxieties & Phobias,traditional,200,True
+air_fryer_cookbook,Air Fryer Cookbook 600 Effortless Recipes,1674844468,paperback,11.25,46940,5974,3,Fryer Recipes,indie,200,True
+air_fryer_cookbook,The Essential Air Fryer Cookbook for Beginners,B0H425VZT3,paperback,10.45,107,6580,2,Fryer Recipes,indie,200,True
+air_fryer_cookbook,Ultimate Air Fryer Perfection,1954210841,paperback,19.67,361,47935,57,Fryer Recipes,traditional,200,True
+sudoku_puzzle_book,1000+ Sudoku Puzzles for Adults,B098WHPB3D,paperback,6.1,5811,1529,7,Sudoku,indie,150,False
+sudoku_puzzle_book,Sudoku Book for Adults and Seniors 3 Levels,B0FBM179D7,paperback,9.58,605,2615,9,Sudoku,indie,150,False
+sudoku_puzzle_book,The Big Book of Sudoku,1680524755,paperback,8.12,8670,763,4,Sudoku,traditional,150,False
+small_business_ideas,47 Profitable Small Business Ideas,B09QRDHXS6,paperback,14.83,198,917166,336,Home-Based Businesses,indie,200,True
+small_business_ideas,Starting a Business QuickStart Guide,1945051825,paperback,12.66,3888,46241,54,Starting a Business,traditional,200,True
+small_business_ideas,1000 Business Ideas You Can Start Today,B0FF2PQJ8G,paperback,8.71,1,1521238,1139,Starting a Business,indie,200,True
+wedding_planner,The Wedding Planner Checklist,1441321543,paperback,6.46,6416,24459,3,Wedding Planners,traditional,120,False
+wedding_planner,The Budget-Savvy Wedding Planner and Organizer,1623159857,paperback,4.35,9964,110392,4,Wedding Budgets,traditional,120,False
+wedding_planner,Ultimate Wedding Planner and Organizer,1441341668,paperback,17.32,24,334249,1759,Marriage,traditional,120,False
+large_print_sudoku_seniors,Sudoku Book for Adults - Large Print,B0DKTMJ1KC,paperback,4.35,1025,1814,8,Sudoku,indie,120,False
+large_print_sudoku_seniors,Easy Extra Large Print Sudoku for Seniors,B0FK4HJBD6,paperback,9.58,36,101345,199,Sudoku,indie,120,False
+large_print_sudoku_seniors,Easy Sudoku for Seniors,B0DBGG95FP,paperback,8.71,239,35588,79,Sudoku,indie,120,False
+debt_payoff_tracker,Debt Payoff Planner (Brinton),1963578163,paperback,8.71,41,361384,172,Financial Risk Management,indie,110,False
+debt_payoff_tracker,Debt Snowball Tracker,B09X529HDG,paperback,5.57,111,141916,1720,Personal Finance,indie,110,False
+debt_payoff_tracker,Debt Payoff Planner (Thorne),B0GD1PPD5C,paperback,4.35,2,211382,703,Budgeting and Money Management,indie,110,False
+habit_tracker_journal,Daily Habit Tracker One Month Small,B09M98WGBF,paperback,6.97,295,33135,843,Success Self-Help,indie,110,False
+habit_tracker_journal,Habit Tracker Journal One Month,B0DRWT7HBP,paperback,4.35,8,710147,17843,Personal Transformation Self-Help,indie,110,False
+habit_tracker_journal,Monthly Habit Tracker Undated,B093RPTP25,paperback,6.1,30,1060355,17337,Motivational Self-Help,indie,110,False
