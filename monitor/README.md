@@ -34,6 +34,18 @@ ja v živej session keď mi napíšeš "skontroluj knihy".
 | NOVA_KNIHA | menej než 14 dní dát | čakaj, zbieraj dáta |
 | SLEDUJ | zmiešaný signál | ďalší týždeň bez zásahu |
 
+## Cloud rutina — stav
+
+Rutina `trig_01LMJtnChimjTBibY7ppP621` beží denne o 8:07 (Europe/Berlin).
+Otestovaná ostrým behom 2026-09-22 — funguje celý cyklus: prečíta repo,
+vygeneruje denný marketingový balíček do `marketing/YYYY-MM-DD.md`, sama
+commitne a pushne. Zoznam: https://claude.ai/code/routines/trig_01LMJtnChimjTBibY7ppP621
+
+`tracked_books.csv` obsahuje všetkých 30 kníh s ASIN-mi `PENDING01`-`PENDING30`.
+**Akonáhle knihu reálne publikuješ na KDP, nahraď jej `PENDING##` skutočným
+ASIN-om** (nájdeš ho v KDP dashboarde alebo v URL knihy na Amazone) — inak
+sa pre ňu nedajú zapisovať BSR dáta do `bsr_history.csv`.
+
 ## Prečo cloud rutina nefunguje na scraping
 
 Cloud agent nemá prístup k reálnemu prehliadaču (ten beží len v desktop

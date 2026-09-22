@@ -1,4 +1,31 @@
 asin,title,niche,launch_date,current_price_usd
-PLACEHOLDER1,High Protein on a Budget,high_protein_cookbook,2026-09-22,2.99
-PLACEHOLDER2,Air Fryer for One,air_fryer_cookbook,2026-09-22,2.99
-PLACEHOLDER3,GLP-1 Diet for Nausea and Side Effects,glp1_diet_cookbook,2026-09-22,2.99
+PENDING01,Protein Without the Grind,high_protein_cookbook,,2.99
+PENDING02,High Protein on $5 a Meal,high_protein_cookbook,,2.99
+PENDING03,High Protein After 40,high_protein_cookbook,,2.99
+PENDING04,The Lazy Lifter's Protein Cookbook,high_protein_cookbook,,3.99
+PENDING05,High Protein Zero Meat,high_protein_cookbook,,2.99
+PENDING06,Protein Breakfast in 5 Minutes,high_protein_cookbook,,2.99
+PENDING07,High Protein Freezer Meals,high_protein_cookbook,,2.99
+PENDING08,The Broke Bodybuilder's Cookbook,high_protein_cookbook,,3.99
+PENDING09,High Protein Lunchbox,high_protein_cookbook,,2.99
+PENDING10,Protein Snacks That Aren't Cardboard,high_protein_cookbook,,2.99
+PENDING11,Air Fryer for One,air_fryer_cookbook,,2.99
+PENDING12,Air Fryer Zero Clue,air_fryer_cookbook,,2.99
+PENDING13,Air Fryer Frozen Aisle Hacks,air_fryer_cookbook,,2.99
+PENDING14,Air Fryer Family Dinners in 20 Minutes,air_fryer_cookbook,,2.99
+PENDING15,Air Fryer Desserts,air_fryer_cookbook,,2.99
+PENDING16,Air Fryer for Two,air_fryer_cookbook,,2.99
+PENDING17,Air Fryer High Protein,air_fryer_cookbook,,4.99
+PENDING18,Air Fryer on a Broke Budget,air_fryer_cookbook,,2.99
+PENDING19,Air Fryer Vegan,air_fryer_cookbook,,2.99
+PENDING20,Air Fryer After Work,air_fryer_cookbook,,2.99
+PENDING21,Eating on GLP-1 Without Hating It,glp1_diet_cookbook,,2.99
+PENDING22,GLP-1 Small Plates,glp1_diet_cookbook,,2.99
+PENDING23,GLP-1 Muscle-Saver Cookbook,glp1_diet_cookbook,,3.99
+PENDING24,GLP-1 Nausea-Proof Recipes,glp1_diet_cookbook,,2.99
+PENDING25,GLP-1 Meal Prep Sundays,glp1_diet_cookbook,,2.99
+PENDING26,GLP-1 High Protein Low Effort,glp1_diet_cookbook,,4.99
+PENDING27,GLP-1 for Women Over 50,glp1_diet_cookbook,,2.99
+PENDING28,GLP-1 on a Budget,glp1_diet_cookbook,,2.99
+PENDING29,GLP-1 Air Fryer Cookbook,glp1_diet_cookbook,,4.99
+PENDING30,GLP-1 Comfort Food Rebuilt,glp1_diet_cookbook,,2.99
